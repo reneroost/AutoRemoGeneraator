@@ -1,0 +1,61 @@
+id,tootja_id,nimi,rehvi_tyyp
+1,1,Turanza,suverehv
+2,1,Blizzak,lamell
+3,1,Weather Control,lamell
+4,1,Potenza,sport
+5,1,Dueler,off-road
+6,1,Ecopia,suverehv
+7,1,Duravis,lamell
+8,1,General Use,suverehv
+9,2,Crossclimate+,lamell
+10,2,X-Ice North 4,naast
+11,2,X-Ice 3, lamell
+12,2,Pilot Alpin 5,lamell
+13,2,Alpin 6,lamell
+14,2,Pilot Alpin PA4,lamell
+15,2,Pilot Sport 4,suverehv
+16,2,Pilot Sport 4S,suverehv
+17,2,Primacy 4,suverehv
+18,2,Pilot Sport Cup 2,sport
+19,3,EfficientGrip Performance,lamell
+20,3,Eagle F1 SuperSport,lamell
+21,3,Eagle F1 SuperSport R,sport
+22,3,Eagle F1 SuperSport RS,sport
+23,3,Eagle F1 Asymmetric,suverehv
+24,3,DuraGrip,suverehv
+25,3,EfficientGrip,suverehv
+26,3,Excellence,suverehv
+27,3,UltraGrip Ice Arctic,naast
+28,3,UltraGrip Ice 2,lamell
+29,3,UltraGrip Performance,lamell
+30,3,UltraGrip Ice Arctic SUV,naast
+31,4,SportContact 6,suverehv
+32,4,PremiumContact 6,suverehv
+33,4,EcoContect 6,suverehv
+34,4,ContiSportContact 5,suverehv
+35,4,ContiPremiumContact 5,suverehv
+36,4,ContiEcoContact 5,suverehv
+37,4,ContiForceContact,sport
+38,4,Conti.eContact Hybrid cars,suverehv
+39,4,IceContact 3,naast
+40,4,WinterContact TS870P,lamell
+41,4,WinterContact TS870,lamell
+42,4,WinterContact TS860S,lamell
+43,4,WinterContact TS860,lamell
+44,4,WinterContact TS850P,lamell
+45,4,ContiWinterContact TS850,lamell
+46,4,IceContact 2,naast
+47,4,AllSeasonContact,lamell
+48,5,P Zero Corsa,sport
+49,5,P Zero Corsa System,sport
+50,5,P Zero,sport
+51,5,P Zero Rosso,sport
+52,5,Cinturato P7,suverehv
+53,5,Cinturato P1 Verde,suverehv
+54,5,Scorpion Verde,suverehv
+55,5,PowerGy,suverehv
+56,5,P Zero Winter,lamell
+57,5,Winter Sottozero Serie II,lamell
+58,5,Winter Sottozero 3,lamell
+59,5,Scorpion Winter,lamell
+60,5,Ice Zero,naast
